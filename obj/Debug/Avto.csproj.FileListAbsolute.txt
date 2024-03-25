@@ -1,0 +1,16 @@
+C:\Users\lukar\OneDrive\Namizje\Avto\bin\Debug\Avto.exe.config
+C:\Users\lukar\OneDrive\Namizje\Avto\bin\Debug\Avto.exe
+C:\Users\lukar\OneDrive\Namizje\Avto\bin\Debug\Avto.pdb
+C:\Users\lukar\OneDrive\Namizje\Avto\obj\Debug\Avto.csproj.AssemblyReference.cache
+C:\Users\lukar\OneDrive\Namizje\Avto\obj\Debug\Avto.csproj.SuggestedBindingRedirects.cache
+C:\Users\lukar\OneDrive\Namizje\Avto\obj\Debug\Avto.csproj.CoreCompileInputs.cache
+C:\Users\lukar\OneDrive\Namizje\Avto\obj\Debug\Avto.exe
+C:\Users\lukar\OneDrive\Namizje\Avto\obj\Debug\Avto.pdb
+C:\Users\lukar\Desktop\Avto\bin\Debug\Avto.exe.config
+C:\Users\lukar\Desktop\Avto\bin\Debug\Avto.exe
+C:\Users\lukar\Desktop\Avto\bin\Debug\Avto.pdb
+C:\Users\lukar\Desktop\Avto\obj\Debug\Avto.csproj.AssemblyReference.cache
+C:\Users\lukar\Desktop\Avto\obj\Debug\Avto.csproj.SuggestedBindingRedirects.cache
+C:\Users\lukar\Desktop\Avto\obj\Debug\Avto.csproj.CoreCompileInputs.cache
+C:\Users\lukar\Desktop\Avto\obj\Debug\Avto.exe
+C:\Users\lukar\Desktop\Avto\obj\Debug\Avto.pdb
